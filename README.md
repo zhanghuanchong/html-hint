@@ -15,6 +15,10 @@ This css library extends [hint.css](https://github.com/chinchang/hint.css) with 
 npm install --save html-hint
 ```
 
+or
+
+Download [dist/html-hint.min.css](dist/html-hint.min.css) and add to your html file.
+
 ### Usage
 
 ```html
